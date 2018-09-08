@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Higher_Number</string>
+    <string name="input_name1">Input First Number</string>
+    <string name="input_name2">Input Second Number</string>
+</resources>
